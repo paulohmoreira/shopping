@@ -8,7 +8,7 @@
 
 ### Backend 
 
-Clone o repositório disponível em [shopping-api]([https://github.com/volinha/sportshop-api](https://github.com/paulohmoreira/api-shopping).
+Clone o repositório disponível em [shopping-api]([https://github.com/volinha/sportshop-api](https://github.com/paulohmoreira/api-shopping)).
 
 Instale e rode o servidor
 
