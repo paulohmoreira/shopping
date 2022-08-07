@@ -1,3 +1,7 @@
+# Link para o repositório do backend:
+https://github.com/paulohmoreira/api-shopping
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
