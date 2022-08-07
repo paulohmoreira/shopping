@@ -1,5 +1,24 @@
-# Link para o repositório do backend:
-https://github.com/paulohmoreira/api-shopping
+## Instruções
+### Frontend
+
+```bash
+  $ npm install
+  $ npm start
+```
+
+### Backend 
+
+Clone o repositório disponível em [shopping-api]([https://github.com/volinha/sportshop-api](https://github.com/paulohmoreira/api-shopping).
+
+Instale e rode o servidor
+
+```bash
+  $ npm install
+  $ npm run dev
+```
+
+Forked from [nathyts/dioshopping](https://github.com/nathyts/dioshopping)
+
 
 
 # Getting Started with Create React App
